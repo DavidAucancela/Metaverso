@@ -1,0 +1,67 @@
+#tituloPrincipal{
+    text-align: center;
+    background-color: rgb(7, 7, 102);
+    font-size: 2cm;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#texto{
+    text-align: center ;
+    font-size: 1.2cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.imagenPrincipal{
+    text-align: right;
+    max-width: 100%;
+    height: auto;
+    margin: 0cm;
+}
+#tituloFormas{
+    text-align: center;
+    background-color: rgb(82, 193, 51);
+    font-size: 1.4cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0cm;
+}
+#tituloRiesgo{
+    text-align: center;
+    background-color: rgb(135, 27, 27);
+    font-size: 1.4cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0cm;
+    color: wheat;
+}
+.imagenRiesgos{
+    text-align: right;
+    max-width: 100%;
+    height: auto;
+    margin: 0cm;
+    padding: 0cm;
+    border: 0cm;
+}
+.imagenes{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    margin: 0cm;
+    padding: 0cm;
+}
+a{
+    font-size: 0.8cm;
+    color: white;
+}
+li{
+    font-size: 0.6cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    padding: left 0;
+}
+#padingRiesgos{
+    margin-right: 10px;
+}
+#tituloFinal{
+    text-align: center;
+    background-color: rgb(4, 68, 80);
+    font-size: 2cm;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
