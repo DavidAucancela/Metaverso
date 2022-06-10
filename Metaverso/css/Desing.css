@@ -4,6 +4,7 @@
     font-size: 2cm;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 5px red;
 }
 #texto{
     text-align: center ;
@@ -15,6 +16,7 @@
     max-width: 100%;
     height: auto;
     margin: 0cm;
+    float: right;
 }
 #tituloFormas{
     text-align: center;
@@ -45,6 +47,7 @@
     height: auto;
     margin: 0cm;
     padding: 0cm;
+    opacity: 0.7;
 }
 a{
     font-size: 0.8cm;
@@ -63,5 +66,13 @@ li{
     background-color: rgb(4, 68, 80);
     font-size: 2cm;
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: cursive;
+    text-shadow: 2px 2px 5px red;
+}
+#derecha{
+    text-align: right;
+}
+video{
+    width: "240px";
+    height: "280px";
 }
